@@ -1,0 +1,9 @@
+- Clicar em elementor
+- configurações/recursos/
+- Rolar a pagina até - Pontos de quebra adicionais personalizada
+  - alterar o valor padrão para ativo
+  - salvar alterações
+
+Voltar para pagina e clicar na barra de menus superior da pagina editar com elementor
+
+
