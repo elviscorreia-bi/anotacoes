@@ -1,0 +1,27 @@
+Você reparou que ao realizar a duplicação da página “Home” do projeto Jornada Viagens para os idiomas inglês e espanhol as suas URLs, também chamadas de links, geradas destas páginas duplicadas ficaram diferentes, comparadas à página “Home” em português?
+
+Vou te mostrar e também é possível conferir na URL do seu projeto:
+
+URL da página “Home” em espanhol: http://localhost/jornadaviagens/es/home-espanhol/
+URL da página “Home” em inglês: http://localhost/jornadaviagens/en/home-ingles/
+
+Repare após “/jornadaviagens/”, as URLs são seguidas de “es/home-espanhol/ “ e “en/home-ingles/” respectivamente. A primeira sigla referente ao idioma, e a segunda expressão referente ao nome da página.
+
+Sabia que é possível ocultar ou personalizar essas URLs? Vou mostrar para você como:
+
+Acesse no painel de adm do Wordpress Idiomas > Configurações > Vá em Configurações do primeiro título “Modificações de URL”.
+
+Irá abrir as diferentes formas de configurações de URLs como na imagem abaixo:
+
+Ocultando identificação da página na URL
+
+Você pode ocultar a identificação da página, ocultando o seu nome. Para isso, selecione a opção “O URL da página inicial contém o código do idioma em vez do nome ou ID da página” como na imagem abaixo:
+
+Dessa forma, as siglas dos idiomas passam para o início do link, e o nome do diretório fica oculto da página fica oculto, como nos exemplos abaixo:
+
+URL da página “Home” em espanhol: http://localhost/jornadaviagens/es/
+URL da página “Home” em inglês: http://localhost/jornadaviagens/en/
+Dessa forma, ocultando o nome do diretório das páginas, as URLs ficam mais discretas e menos confusas.
+
+O que acha? Se desejar, você pode fazer o mesmo no projeto! Não se esqueça de clicar em “Guardar Alterações” ao finalizar para salvar as novas configurações.
+
