@@ -1,0 +1,4 @@
+Sticky Menu & Sticky Header
+Instalando...
+Mais detalhes
+Sticky Menu or Sticky Header sticks elements at the top of the screen when you scroll, or create a floating sticky menu or fixed widget.
