@@ -1,0 +1,23 @@
+APP
++ Polylang: Torne-se multilíngue de maneira simples e eficiente. Continue escrevendo posts e termos de taxonomia normalmente enquanto define seus idiomas de uma só vez.
+
+# Configurações do APP
+ - No painel principal do wordpress: clique em idiomas
+ - Defina a ordem de cada edioma
+ - Defina o edioma padrão deixando apenas uma estrela
+
+Um desafio comum para proprietários de sites é tornar seu conteúdo acessível a uma audiência global. Isso envolve oferecer conteúdo em diferentes idiomas para atender às necessidades dos visitantes de diferentes regiões.
+Uma solução eficiente para esse problema é o uso do plugin Polylang para WordPress. Esse plugin permite criar sites multilíngues de forma fácil e eficiente, utilizando tradução manual. Com o Polylang, é possível controlar todas as etapas da tradução, garantindo qualidade e precisão.
+
+O Polylang oferece vantagens em relação aos plugins de tradução automática, como o Google Tradutor. A qualidade da tradução é superior, pois o Polylang permite contar com traduções humanas ou profissionais, resultando em traduções mais precisas e naturais. Em contraste, a tradução automatizada pode ser imprecisa.
+
+Além disso, o Polylang oferece maior controle e personalização. É possível personalizar a tradução de cada elemento do site, assegurando que a mensagem seja transmitida corretamente em cada idioma. Já o Google Tradutor possui poucas opções de personalização, o que pode resultar em um conteúdo inadequado.
+
+No entanto, há alguns pontos negativos ao usar o Polylang. A tradução manual pode exigir tempo e esforço consideráveis, especialmente se não houver recursos para contratar tradutores profissionais. Além disso, embora o Polylang suporte diversos idiomas, a disponibilidade pode ser menor em comparação com o Google Tradutor.
+Em resumo, o Polylang é uma solução eficiente para criar um site multilíngue com controle total sobre as traduções. Embora a tradução manual demande mais tempo e recursos, os benefícios em termos de precisão e personalização tornam o Polylang uma escolha valiosa para sites multilíngues de qualidade.
+
+
+
+ 
+
+  
