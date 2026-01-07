@@ -1,0 +1,51 @@
+APP
++ Polylang: Torne-se multilíngue de maneira simples e eficiente. Continue escrevendo posts e termos de taxonomia normalmente enquanto define seus idiomas de uma só vez.
+
+# Configurações do APP
+ - No painel principal do wordpress: clique em idiomas
+ - Defina a ordem de cada edioma
+ - Defina o edioma padrão deixando apenas uma estrela
+
+Um desafio comum para proprietários de sites é tornar seu conteúdo acessível a uma audiência global. Isso envolve oferecer conteúdo em diferentes idiomas para atender às necessidades dos visitantes de diferentes regiões.
+Uma solução eficiente para esse problema é o uso do plugin Polylang para WordPress. Esse plugin permite criar sites multilíngues de forma fácil e eficiente, utilizando tradução manual. Com o Polylang, é possível controlar todas as etapas da tradução, garantindo qualidade e precisão.
+
+O Polylang oferece vantagens em relação aos plugins de tradução automática, como o Google Tradutor. A qualidade da tradução é superior, pois o Polylang permite contar com traduções humanas ou profissionais, resultando em traduções mais precisas e naturais. Em contraste, a tradução automatizada pode ser imprecisa.
+
+Além disso, o Polylang oferece maior controle e personalização. É possível personalizar a tradução de cada elemento do site, assegurando que a mensagem seja transmitida corretamente em cada idioma. Já o Google Tradutor possui poucas opções de personalização, o que pode resultar em um conteúdo inadequado.
+
+No entanto, há alguns pontos negativos ao usar o Polylang. A tradução manual pode exigir tempo e esforço consideráveis, especialmente se não houver recursos para contratar tradutores profissionais. Além disso, embora o Polylang suporte diversos idiomas, a disponibilidade pode ser menor em comparação com o Google Tradutor.
+Em resumo, o Polylang é uma solução eficiente para criar um site multilíngue com controle total sobre as traduções. Embora a tradução manual demande mais tempo e recursos, os benefícios em termos de precisão e personalização tornam o Polylang uma escolha valiosa para sites multilíngues de qualidade.
+
+Para saber mais: gerenciamento de itens no menu
+
+No próximo vídeo ensino você a gerenciar os itens do menu inserindo o “Seletor de idioma” no menu do projeto Jornada Viagens. Esta opção nem sempre aparece disponível na lista de itens a serem adicionados no menu, por esse motivo preparei esse conteúdo extra, onde ensino você a adicionar ou excluir o “Seletor de idiomas”, e também outros itens na lista reserva do menu.
+
+Acessando no painel do admin “Aparência” e depois indo em “Menus”, você irá encontrar o gerenciamento do menu do projeto. Lá é possível personalizá-lo adicionando, ou excluindo itens que podem aparecer no menu da página.
+
+Os itens que podem ser adicionados ficam localizados na lista abaixo do título “Adicionar itens no menu”, como mostra a imagem abaixo:
+
+Print parcial do gerenciamento de menu do wordpress. Contendo título: “Adicionar itens no menu”, e contendo subtítulos clicáveis em ordem vertical: “Páginas”, “Posts”, “Landing Pages”, “Links personalizados”, “Categorias”.
+
+Repare que na imagem acima não tem a opção “Seletor de idioma”, o que me impede de adicionar este seletor no menu do projeto. Então como é possível solucionar isso?
+
+Bem, o seletor de idiomas, assim como outras opções de elementos que podemos inserir no menu, podem não aparecer nessa lista reserva “Adicionar itens no menu”. E para adicionar, você pode fazer da seguinte forma:
+
+Vá em “Opções de tela”, como indicado na imagem abaixo:
+
+Print parcial do gerenciamento do menu do wordpress. Contendo uma seta vermelha apontada para a opção “Opções de tela”, localizada na parte superior direita da imagem.
+
+Selecione “Seletor de idioma”, como indicado na imagem abaixo:
+
+Print parcial do gerenciamento do menu do wordpress. Contendo uma seta vermelha para a opção “Seletor de idioma”. localizado no lado esquerdo da imagem.
+
+E então a opção “Seletor de idioma” irá aparecer na lista “Adicionar itens no menu”, como na imagem abaixo:
+
+Print parcial do gerenciamento de menu do wordpress. Contendo título: “Adicionar itens no menu”, e contendo subtítulos clicáveis em ordem vertical: “Seletor de idioma”, “Páginas”, “Posts”, “Landing Pages”, “Links personalizados”, “Categorias”.
+
+Dessa forma é possível adicionar não apenas a opção de “Seletor de idiomas” ao menu, mas também tags, páginas, posts e outras opções que nem sempre estão disponíveis na lista de “Adicionar itens no menu”.
+
+
+
+ 
+
+  
